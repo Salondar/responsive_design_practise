@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Raleway", monospace;
+    background-image: url("../assets/comming_soon.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    padding: 1.1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 2em;
+}
+
+.link-para {
+    font-size: 1.2em;
+}
+
+.main-text {
+    font-size: 4em;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 0.4em;
+}
+
+hr {
+    display: block;
+    width: 11vw;
+    min-width: 5vw;
+    height: 1px;
+    margin: 0 auto;
+}
+
+.days-left {
+    padding-top: 1.2em;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
