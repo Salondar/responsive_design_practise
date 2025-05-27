@@ -6,10 +6,10 @@
 
 body {
     font-family: "Raleway", monospace;
-    background-image: url("../assets/comming_soon.jpg");
-    background-size: 100%;
     width: 100vw;
     height: 100vh;
+    background-image: url("../assets/comming_soon.jpg");
+    background-size: 100%;
     color: white;
     padding: 1.1em;
     display: flex;
