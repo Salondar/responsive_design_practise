@@ -9,7 +9,7 @@ body {
     width: 100vw;
     height: 100vh;
     background-image: url("../assets/comming_soon.jpg");
-    background-size: 100%;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     color: white;
     padding: 1.1em;
